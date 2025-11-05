@@ -1,10 +1,10 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
+  name: Калиниченко Михаил Владиславович
   degrees: DSc
   orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  email: 1132250409@pfur.ru
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
@@ -13,7 +13,7 @@ author:
       address: ул. Миклухо-Маклая, д. 6
 
 ## Title
-title: "Шаблон отчёта по лабораторной работе"
+title: "Отчёт по лабораторной работе"
 subtitle: "Простейший вариант"
 license: "CC BY"
 ---
